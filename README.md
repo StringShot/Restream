@@ -1,2 +1,2 @@
-# **RePlay™**
-Countering the Governments ban on social media; **RePlay™** is a new developing platform to bring back our content for under 16s in a safe manner, redirecting safe content from various platforms to a website/app to watch and a new platform to upload to. It is supposed to be a new and safe content platform with a consumer friendly approach to profits and a revolutionary private streaming platform for free.
+# **RePlay**
+Countering the Governments ban on social media; **RePlay** is a new developing platform to bring back our content for under 16s in a safe manner, redirecting safe content from various platforms to a website/app to watch and a new platform to upload to. It is supposed to be a new and safe content platform with a consumer friendly approach to profits and a revolutionary private streaming platform for free.
