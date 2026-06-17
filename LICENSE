@@ -2,6 +2,8 @@ RePlay Non-Commercial License (PNCL) v1.0
 Copyright © 2026 StringShot
 All rights reserved
 
+Permission
+
 This license allows you to: 
 
 Use the provided software, modify the provided software, read & study the provided software, create content using the provided software & monetise it, share the provided software & build personal & experimental projects using the provided software
@@ -9,16 +11,22 @@ Only for non-commercial intents and purposes.
 You may earn money from the content you create.
 You may NOT earn money from the provided software or a modified version of the provided software.
 
+Non‑Commercial Restriction
+
 You may NOT:
 
 Sell the provided software or a modified variant of the provided software in any form, sell access to the provided software or a modified variant of the provided software in any form, use the provided software or a modified variant of the provided software in a paid product or service, use the provided software or a modified variant of the provided software to generate revenue indirectly, use a modified variant of the provided software to monetise content, use the provided software or a modified variant of the provided software in a business, organisation, corperation or commercial enviroment, use the provided software or a modified variant of the provided software to build, operate or assist a competing product or commercial platform & use the provided software or a modified variant of the provided software in any monetised system, application or service.
 This restriction applies to the provided software or a modified version of the provided software, not the content you may create with it.
+
+Monetised Content Exception
 
 You ARE allowed to:
 
 Monetise media and content created using the provided software (not a modified version of the provided software), sell user generated content, earn ad revenue, tips, donations, or marketplace income, participate in revenue‑sharing programs, sell content on third‑party platforms.
 You own the content you create.  
 You may monetise your content freely.
+
+Protection of Original Ideas, Features, and Concepts
 
 You may NOT:
 
@@ -27,29 +35,42 @@ Copy, clone, imitate, or adapt any original feature or idea from the provided so
 If you wish to use any original idea, feature, or concept from this project, you must:
 
 Contact the author, request explicit written permission, receive confirmation, provide visible credit if permission is granted.
+This applies to individuals, companies, organisations, and commercial entities.
+
+Distribution
 
 If you share the provided software or a modified version of the provided software, you must:
 
 Include this license, keep attribution to the original author, clearly state any modifications, not misrepresent your version as the original.
-This does not apply to content created using the provided software (not a modified version of the provided software).
+This does not apply to content created using the provided software (this does apply to a modified version of the provided software).
+
+User‑Generated Content (UGCs)
 
 This license does not grant permission to:
 
 Extract, reuse, or redistribute user‑generated content, copy or republish assets, models, scenes, or media created by others, use platform‑specific assets outside the platform.
 Creators retain full ownership of their content.
 
+No Trademark Rights
+
 This license does not grant permission to use:
 
 The project name, logos, branding & visual identity
 Separate written permission is required for any branding use.
+
+Security & Reverse Engineering
 
 You may NOT:
 
 Attempt to bypass encryption, reverse‑engineer the platform’s security systems, extract private keys, device keys, or encrypted data, modify the software to disable or weaken security features.
 These restrictions protect both the platform and its users.
 
+Warranty
+
 The software is provided “as is”, without warranty of any kind.
 The author is not liable for any damages, losses, or issues arising from its use.
+
+Termination
 
 Any violation of this license immediately and automatically terminates your rights to use the software.
 
@@ -58,8 +79,12 @@ Upon termination you MUST:
 Stop using the software, delete all copies in your possession, cease distribution of any modified versions.
 This does not affect ownership of content you created before termination.
 
+Commercial Licensing
+
 Commercial use of the software itself requires a separate commercial license.
 Contact the author for terms, pricing, and permissions.
+
+Priviledges & Bypasses
 
 All of the above do not apply to @StringShot and priviledged users.
 You may tell if you are a priviledged user by a badge appearing next to your username in RePlay.
